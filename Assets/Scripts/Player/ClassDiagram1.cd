@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BallAttack">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACBAYgAAAAAAAAAAAEAAAQAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\BallAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAttack">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAEAAEAQAAARAQAAAAAAQEAIAACAAIAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAiAAAQAAAAgAACAAAQgAgQAJAAAAAABAAEQ=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectileCollectibles">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\ProjectileCollectibles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthColectible">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAACAABAA=</HashCode>
+      <FileName>Assets\Scripts\Health\HealthColectible.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Health">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAgAAAAIAABAACAAAACAAABAAAAEAACIAAACAAAgAcA=</HashCode>
+      <FileName>Assets\Scripts\Health\Health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
